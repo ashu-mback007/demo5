@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 "Pizza\nSushi\nPasta"
-=======
 "Inception\nThe Matrix\nInterstellar"
->>>>>>> movies
